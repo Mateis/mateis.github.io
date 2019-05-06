@@ -4,3 +4,5 @@ Simple rules can lead to complex execution and give direction in complexity. Opt
 I compress my views in two operating rules:
 * Contribute to the whole
 * [Love your fate](https://en.wikipedia.org/wiki/Stoicism)
+
+What comes out is (unshakable) composure/grace and (financial) sustainability up to the end of bodily function. A prerequisite to maintain contribution. Hence a positive feedback loop.
