@@ -2,6 +2,4 @@
 
     <placeholder>
 
-Then, On humility 
-Then, [reality](/reality)
-
+[On humility](humility)
