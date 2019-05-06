@@ -1,15 +1,11 @@
 # Personal website
+* Philosophy
+* Initiatives
+
 [Why](/whythis)
+
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH)
 
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Entreflaneur</title>
     <style>
       @font-face {
         font-display: block;
@@ -48,10 +44,7 @@
     <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
     <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
     <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
-  </head>
 
-
-  <body class="sib-form">
     <div id="sib-form-container" class="sib-form-container" style="text-align: left;
        background-color: #ffffff;                                 ">
       <div id="error-message" class="sib-form-message-panel" style=" font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949; max-width:540px;">
@@ -148,6 +141,3 @@
       <script src="https://sibforms.com/forms/end-form/build/main.js">
       </script>
     </div>
-  </body>
-
-</html>
