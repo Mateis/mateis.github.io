@@ -1,14 +1,14 @@
 # Access point to Matthijs
-Philosophy and enterprise.
+**Philosophy** and **enterprise**.
 
-[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). Then start with [Why](/whythis).
+[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). Then start with [why](/whythis).
 
-    <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
-    <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
-    <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-    <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
+<link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 
-    <div id="sib-form-container" class="sib-form-container" style="text-align: left;
+   <div id="sib-form-container" class="sib-form-container" style="text-align: left;
        background-color: #ffffff;                                 ">
       <div id="error-message" class="sib-form-message-panel" style=" font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949; max-width:540px;">
         <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
@@ -48,12 +48,12 @@ Philosophy and enterprise.
             <div class="form__entry entry_block">
               <div class="form__label-row ">
 
-                <div class="entry__field">
+<div class="entry__field">
                   <input class="input" type="email" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Insert your email adress here" data-required="true" required />
                 </div>
               </div>
 
-              <label class="entry__error entry__error--primary" style=" font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+ <label class="entry__error entry__error--primary" style=" font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
           </div>
@@ -80,7 +80,7 @@ Philosophy and enterprise.
           <input type="hidden" name="locale" value="en">
         </form>
       </div>
-      <script>
+ <script>
         window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
 
         window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
@@ -99,8 +99,8 @@ Philosophy and enterprise.
           }
         };
 
-        var AUTOHIDE = Boolean(1);
-      </script>
+var AUTOHIDE = Boolean(1);
+</script>
       <script src="https://sibforms.com/forms/end-form/build/main.js">
       </script>
     </div>
