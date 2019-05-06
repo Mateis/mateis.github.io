@@ -34,13 +34,13 @@
     <style>
       #sib-container input:-ms-input-placeholder {
         text-align: left;
-        font-family: "Helvetica", sans-serif;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
         color: #c0ccda;
       }
 
       #sib-container input::placeholder {
         text-align: left;
-        font-family: "Helvetica", sans-serif;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
         color: #c0ccda;
       }
     </style>
@@ -52,8 +52,8 @@
 
 
   <body class="sib-form">
-    <div id="sib-form-container" class="sib-form-container" style="text-align: center;
-       background-color: #4971b4;                                 ">
+    <div id="sib-form-container" class="sib-form-container" style="text-align: left;
+       background-color: #ffffff;                                 ">
       <div id="error-message" class="sib-form-message-panel" style=" font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949; max-width:540px;">
         <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
           <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
@@ -78,8 +78,8 @@
         </div>
       </div>
       <div></div>
-      <div id="sib-container" class="sib-container--large sib-container--vertical" style=" text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;">
-        <form id="sib-form" method="POST" action="https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH">
+      <div id="sib-container" class="sib-container--large sib-container--vertical" style=" text-align:left; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-color:#C0CCD9; border-style:solid;">
+        <form id="sib-form" method="POST" action="https://sibforms.com/serve/MUIEACdGOeiMo2B5Lymp7GJfLyzkm3dq7Xb3a092tzgVL3JznXhvnpA9-Oavh1T1Ur0q47zQ9ShFHy0jBJQpNTEMNBVIa_ovEfvXtVj1PnsJXZ-G90othrS_XcsokXswirMxBLLA05n2E1Ezu-yAQZBXCdgCte-aBJuVgBiBkE_O1ALSG3lIYvuwWk5WCeO-5SgIGgfxwlybL4XU">
           <div class="sib-form-block" style=" font-size:32px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
             <p>Sign up. Follow the story.</p>
           </div>
