@@ -6,3 +6,5 @@ I compress my views in two operating rules:
 * [Love your fate](https://en.wikipedia.org/wiki/Stoicism)
 
 What comes out is grace and sustainability up to the end of bodily function. A prerequisite to maintain contribution. Hence a positive feedback loop.
+
+[Continuation](/continuation)
