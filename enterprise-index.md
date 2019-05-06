@@ -5,4 +5,4 @@ Test mental model accuracy of representing reality. Update believes after feedba
 * [Agent of DJ David Davis](http://www.daviddavis.nl)
 * Plastic waste videos
 * Giftcard projects
-* investing
+* [Investing](/capitalinvestments)
