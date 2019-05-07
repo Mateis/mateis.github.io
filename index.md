@@ -1,5 +1,5 @@
-# Sex. Airplane crash. Thank you for your attention. I'm Matthijs and I may know something important you do not yet.
-Curious how the world works. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture).
+# Sex. Airplane crash. Thank you for your attention.
+I'm Matthijs and I may know something important you do not yet. You are curious how the world works, like me. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
