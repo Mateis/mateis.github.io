@@ -34,7 +34,7 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
       <div id="sib-container" class="sib-container--large sib-container--vertical" style="max-width:580px;">
         <form id="sib-form" method="POST" action="https://sibforms.com/serve/MUIEACdGOeiMo2B5Lymp7GJfLyzkm3dq7Xb3a092tzgVL3JznXhvnpA9-Oavh1T1Ur0q47zQ9ShFHy0jBJQpNTEMNBVIa_ovEfvXtVj1PnsJXZ-G90othrS_XcsokXswirMxBLLA05n2E1Ezu-yAQZBXCdgCte-aBJuVgBiBkE_O1ALSG3lIYvuwWk5WCeO-5SgIGgfxwlybL4XU">
           <div class="sib-form-block">
-<h2>Watch my sculpture evolve. Sign up</h2>
+<h2>Watch my sculpture evolve. Sign up.</h2>
   </div>
           <div class="sib-form-block">
             <div class="sib-text-form-block">
@@ -107,11 +107,11 @@ var AUTOHIDE = Boolean(1);
 
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6) to contribute to the sculpture. Then start with [why](/whythis).
 
-## I am reading now
+## What I read now
 <script type="text/javascript">var bol_pml={"id":"bol_1557237138056","baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000002145966&productid=9200000090807975&productid=9200000076062218&","site_id":"1004415","target":true,"rating":false,"price":true,"link_name":"Entreflaneur","link_subid":"Index","image_size":true,"image_position":"left","width":"180","cols":"1","background_color":"#FFFFFF","text_color":"#5ACB0E","link_color":"#0000FF","border_color":"#D2D2D2","letter_type":"verdana","letter_size":"11"};</script><script type="text/javascript" src="https://partner.bol.com/partner/static/js/aai/clientProductlink.js" id="bol_1557237138056"></script>
 
 
-I get paid if you buy one of these books (like me). You will not pay a higher price. You may also borrow these books from me. Then it's free for you to read them!
+I get paid if you buy one of these books (like me). You will not pay a higher price. You may also borrow these books from me, after I have read them. Then it's free for you to read them!
 
 <style>
 #sib-container {
