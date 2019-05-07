@@ -57,7 +57,7 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
           </div>
           <div class="sib-form-block" style="text-align: left">
             <button class="sib-form-block__button" style=" font-size:16px; text-align:left; font-weight:700; color:#FFFFFF; background-color:#3E4857; border-radius:3px;" form="sib-form" type="submit">
-              Sign up
+              Ah yes, sign me up. Let's go!
             </button>
             <div class="sib-loader" style="display: none;">
               <div style="background: #3E4857;"></div>
