@@ -39,7 +39,11 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
       <div id="sib-container" class="sib-container--large sib-container--vertical" style="max-width:540px;">
         <form id="sib-form" method="POST" action="https://sibforms.com/serve/MUIEACdGOeiMo2B5Lymp7GJfLyzkm3dq7Xb3a092tzgVL3JznXhvnpA9-Oavh1T1Ur0q47zQ9ShFHy0jBJQpNTEMNBVIa_ovEfvXtVj1PnsJXZ-G90othrS_XcsokXswirMxBLLA05n2E1Ezu-yAQZBXCdgCte-aBJuVgBiBkE_O1ALSG3lIYvuwWk5WCeO-5SgIGgfxwlybL4XU">
           <div class="sib-form-block">
+
+
 ## Sign up. Follow the story.
+
+
   </div>
           <div class="sib-form-block">
             <div class="sib-text-form-block">
