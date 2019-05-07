@@ -1,9 +1,9 @@
 # Access point to Matthijs
-I collect as much timeless (although nothing is timeless) worldly knowledge possible in my short stay. I win if I have the most accurate and actionable map/model representation of the whole. I do so with philosophy and enterprise. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
+Curious how the world works. I collect as much durable worldly knowledge possible in my short stay. My definition of winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with philosophy and enterprise. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
 
 ## Philosophy and [Enterprise](/enterprise-index).
 
-[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). Then start with [why](/whythis).
+[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Then start with [why](/whythis).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
@@ -106,3 +106,6 @@ var AUTOHIDE = Boolean(1);
       <script src="https://sibforms.com/forms/end-form/build/main.js">
       </script>
     </div>
+
+## I am reading now
+<script type="text/javascript">var bol_pml={"id":"bol_1557237138056","baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000002145966&productid=9200000090807975&productid=9200000076062218&","site_id":"1004415","target":true,"rating":false,"price":true,"link_name":"Entreflaneur","link_subid":"Index","image_size":true,"image_position":"left","width":"180","cols":"1","background_color":"#FFFFFF","text_color":"#5ACB0E","link_color":"#0000FF","border_color":"#D2D2D2","letter_type":"verdana","letter_size":"11"};</script><script type="text/javascript" src="https://partner.bol.com/partner/static/js/aai/clientProductlink.js" id="bol_1557237138056"></script>
