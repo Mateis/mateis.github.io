@@ -1,4 +1,4 @@
-# Sex. Airplane crash. Your attention.
+# Sex. Airplane crash. Your attention. Set in stone.
 **I'm Matthijs and I may know something important you do not yet.** Curious how the world works, you may be like me. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). I invite you to grab a chisel and [contribute](https://forms.gle/3h5CYckTyoCFZczj6).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
