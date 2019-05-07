@@ -41,7 +41,7 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
           <div class="sib-form-block">
 
 
-## Sign up. Follow the story.
+<h2>Sign up. Follow the story.</h2>
 
 
   </div>
