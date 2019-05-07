@@ -1,5 +1,5 @@
 # Access point to Matthijs
-I do two things. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture).
+I do philosophy and enterprise. To collect as much timeless (although nothing is timeless) worldly knowledge possible in my short stay. Winning is having the most accurate representation of the universe. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture).
 ## Philosophy and [Enterprise](/enterprise-index).
 
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). Then start with [why](/whythis).
