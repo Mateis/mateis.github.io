@@ -56,7 +56,7 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
             </div>
           </div>
           <div class="sib-form-block" style="text-align: left">
-            <button class="sib-form-block__button" style=" font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px;" form="sib-form" type="submit">
+            <button class="sib-form-block__button" style=" font-size:16px; text-align:left; font-weight:700; color:#FFFFFF; background-color:#3E4857; border-radius:3px;" form="sib-form" type="submit">
               Sign up
             </button>
             <div class="sib-loader" style="display: none;">
@@ -104,7 +104,7 @@ var AUTOHIDE = Boolean(1);
     </div>
 
 
-## Philosophy and Enterprise.
+## Philosophy and Enterprise
 
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Then start with [why](/whythis).
 
