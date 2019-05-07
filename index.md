@@ -1,5 +1,5 @@
-# Sex. Airplane crash. Thank you for your attention. I'm Matthijs.
-Curious how the world works. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
+# Sex. Airplane crash. Thank you for your attention. I'm Matthijs and I may have some wisdom you need.
+Curious how the world works. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
@@ -35,7 +35,7 @@ Curious how the world works. I collect as much durable worldly knowledge as poss
       <div id="sib-container" class="sib-container--large sib-container--vertical" style="max-width:580px;">
         <form id="sib-form" method="POST" action="https://sibforms.com/serve/MUIEACdGOeiMo2B5Lymp7GJfLyzkm3dq7Xb3a092tzgVL3JznXhvnpA9-Oavh1T1Ur0q47zQ9ShFHy0jBJQpNTEMNBVIa_ovEfvXtVj1PnsJXZ-G90othrS_XcsokXswirMxBLLA05n2E1Ezu-yAQZBXCdgCte-aBJuVgBiBkE_O1ALSG3lIYvuwWk5WCeO-5SgIGgfxwlybL4XU">
           <div class="sib-form-block">
-<h2>Sign up. Follow the story.</h2>
+<h2>Watch my sculpture evolve.</h2>
   </div>
           <div class="sib-form-block">
             <div class="sib-text-form-block">
