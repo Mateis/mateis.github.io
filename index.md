@@ -111,7 +111,7 @@ var AUTOHIDE = Boolean(1);
 <script type="text/javascript">var bol_pml={"id":"bol_1557237138056","baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000002145966&productid=9200000090807975&productid=9200000076062218&","site_id":"1004415","target":true,"rating":false,"price":true,"link_name":"Entreflaneur","link_subid":"Index","image_size":true,"image_position":"left","width":"180","cols":"1","background_color":"#FFFFFF","text_color":"#5ACB0E","link_color":"#0000FF","border_color":"#D2D2D2","letter_type":"verdana","letter_size":"11"};</script><script type="text/javascript" src="https://partner.bol.com/partner/static/js/aai/clientProductlink.js" id="bol_1557237138056"></script>
 
 
-I get paid if you (like me) buy one of these books. You do not pay extra. You may also borrow these books from me, then it's free for you!
+I get paid if you buy one of these books (like me). You will not pay a higher price. You may also borrow these books from me. Then it's free for you to read them!
 
 <style>
 #sib-container {
