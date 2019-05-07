@@ -1,5 +1,5 @@
 # Access point to Matthijs
-Curious how the world works. I collect as much durable worldly knowledge possible in my short stay. My definition of winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with philosophy and enterprise. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
+Curious how the world works. I collect as much durable worldly knowledge possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with philosophy and enterprise. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
 
 ## Philosophy and [Enterprise](/enterprise-index).
 
