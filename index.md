@@ -1,4 +1,4 @@
-# Access point to Matthijs
+# Sex. Airplane crash. I have your attention. Now access Matthijs
 Curious how the world works. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable map/model representation of the whole (the landscape). I do so with philosophy and [enterprise](/enterprise-index). Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Watch my sculpture evolve.
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
