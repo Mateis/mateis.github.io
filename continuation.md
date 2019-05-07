@@ -4,3 +4,5 @@ Human civilization is, among many things, a long link from one human to another.
 [Vulnerability, expression, humility](/hormesis).
 
 ![History of civilizations](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/1810001.jpg)
+
+[Vulnerability, expression, humility](/hormesis).

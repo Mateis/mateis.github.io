@@ -4,7 +4,7 @@ I slowly kill my ego. Let go if it, part by part. Self is dynamic. It is never t
 I am part of the whole. I am made out of the same building blocks as all else. Let go of ego and self. I will be free. And fulfill my part.
 I may cry each time I let go a bit of my ego. As it is like something of me, my idenity, died off. Yet the dying of the ego, born is freedom alive.
 
-[Reality](/reality)
-
 ## Building blocks (to the best of our knowledge)
 ![Standard Model of Particles](https://www.abc.net.au/cm/lb/7864318/data/standard-model-of-physics-data.jpg)
+
+[Reality](/reality)
