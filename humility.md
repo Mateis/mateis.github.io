@@ -6,6 +6,7 @@ I may cry each time I let go a bit of my ego. As it is like something of me, my 
 
 ## Building blocks
 ![Standard Model of Particles](https://www.abc.net.au/cm/lb/7864318/data/standard-model-of-physics-data.jpg)
+
 *These participles are to the best of our knowledge.*
 
 [Reality](/reality)
