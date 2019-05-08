@@ -108,10 +108,11 @@ var AUTOHIDE = Boolean(1);
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Then start with [why](/whythis).
 
 ## What I read now
-<script type="text/javascript">var bol_pml={"id":"bol_1557237138056","baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000002145966&productid=9200000090807975&productid=9200000076062218&","site_id":"1004415","target":true,"rating":false,"price":true,"link_name":"Entreflaneur","link_subid":"Index","image_size":true,"image_position":"left","width":"180","cols":"1","background_color":"#FFFFFF","text_color":"#5ACB0E","link_color":"#0000FF","border_color":"#D2D2D2","letter_type":"verdana","letter_size":"11"};</script><script type="text/javascript" src="https://partner.bol.com/partner/static/js/aai/clientProductlink.js" id="bol_1557237138056"></script>
+1. Personal MBA
+2. Principles
+3. Model Thinker
 
-
-I get paid if you (like me) buy one of these books. You will not pay extra. You may also borrow these books from me, after I have read them. Then it's free for you to read them! Ask me if you want to learn more about a particular book.
+<!-- I get paid if you (like me) buy one of these books. You will not pay extra. You may also borrow these books from me, after I have read them. Then it's free for you to read them! Ask me if you want to learn more about a particular book. -->
 
 <style>
 #sib-container {
