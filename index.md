@@ -1,5 +1,5 @@
 # Curious how the world works
-Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). I believe that if I keep carving long enough at something [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Many money mountains and curvey cognitive corners are overcome towards it. Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
+Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). I believe that if I keep carving long enough at something [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Many money mountains and curvey cognitive corners are to be overcome towards it. Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css"> 
@@ -102,10 +102,8 @@ var AUTOHIDE = Boolean(1);
       </script>
     </div>
 
-
-## Philosophy and Enterprise
-
-[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Then start with [why](/whythis).
+## State of the art
+**[Access the story up to now](/whythis)**
 
 ## What I read now
 1. Personal MBA
@@ -113,6 +111,9 @@ var AUTOHIDE = Boolean(1);
 3. Model Thinker
 
 <!-- I get paid if you (like me) buy one of these books. You will not pay extra. You may also borrow these books from me, after I have read them. Then it's free for you to read them! Ask me if you want to learn more about a particular book. -->
+
+---
+[Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Start with [why](/whythis).
 
 <style>
 #sib-container {
