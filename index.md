@@ -1,8 +1,8 @@
-# Sex. Airplane crash. Your attention.
-Curious how the world works, you may be like me. I collect as much durable worldly knowledge as possible in my short stay. Winning is when I have the most accurate and actionable representation of the whole. A map or model of the landscape we operate in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). The path has many money mountains and curvey cognitive corners to overcome. Keep carving long enough at something and [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). I invite you to grab a chisel and [contribute](https://forms.gle/3h5CYckTyoCFZczj6).
+# Curious how the world works
+Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). I believe that if I keep carving long enough at something [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Many money mountains and curvey cognitive corners are overcome towards it. Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
-<link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css">
+<link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css"> 
 <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
    <div id="sib-form-container" class="sib-form-container" style="text-align: left;
