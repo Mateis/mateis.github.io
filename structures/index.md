@@ -9,3 +9,4 @@ Frames for the world. Many call them mental models. I call them structures. Fram
 5. Charlie Munger almanac
 
 ### My mainframe
+A start is to be made to formalize my mind. I´d like to make a visual. A visual map of frames. Like a mindmap, or a landscape card.
