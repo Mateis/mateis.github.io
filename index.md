@@ -108,11 +108,11 @@ var AUTOHIDE = Boolean(1);
 **[Access the story up to now](/whythis)**
 
  
-### Evolving Series
+### Evolving series
 * [What do you want](/whatdoyouwant/)
-* [Oblivion](/oblivion)
 * [State of the world](/stateoftheworld/)
 * [Structures](/structures)
+* [Oblivion](/oblivion)
 <!-- * [Beautiful (world) investing](/capitalinvestments) -->
 
 
