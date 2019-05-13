@@ -1,12 +1,12 @@
 # Curious how the world works
-Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [observation, philosophy](/whythis) and [enterprise](/enterprise-index). Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
+Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy, observation](/whythis) and [enterprise](/enterprise-index). Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
 
 ![If I keep carving at something beauty will unfold; https://en.wikipedia.org/wiki/List_of_The_Thinker_sculptures](https://upload.wikimedia.org/wikipedia/commons/9/96/Le_penseur_de_la_Porte_de_lEnfer_%28mus%C3%A9e_Rodin%29_%284528252054%29.jpg)
+*Auguste Rodin. See [List of the Thinker Sculptures](https://en.wikipedia.org/wiki/List_of_The_Thinker_sculptures).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css"> 
 <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
    <div id="sib-form-container" class="sib-form-container" style="text-align: left;
        background-color: #ffffff;                                 ">
       <div id="error-message" class="sib-form-message-panel" style=" font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949; max-width:540px;">
