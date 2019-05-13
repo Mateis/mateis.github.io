@@ -1,11 +1,11 @@
 # State of the world
 There is so much going on at this planet. How to make sense of all of it. 
 
-## Resources
+## Input resources
 A few sources that can help.
 
-**All**
-1. [Strategic Context, World Economic Forum](https://intelligence.weforum.org/)
+**General**
+1. [Strategic Intelligence, World Economic Forum](https://intelligence.weforum.org/)
 
 **New progressing technologies**
 2. [Emerging Technologies, Matthias Koller](http://matthiaskoller.me/emergingtechnologies/)
