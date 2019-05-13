@@ -1,4 +1,4 @@
-# The world
+# State of the world
 There is so much going on at this planet. How to make sense of all of it. 
 
 ## Resources
