@@ -14,7 +14,7 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 
 | Resource              | Read              |
 | -----------------     | :-----------:     |
-| Black Swan            | yes               |
+| [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)                   | yes |
 | [Randomness on wikipedia](https://en.wikipedia.org/wiki/Randomness)           | - |
 | [Probability on wikipedia](https://en.wikipedia.org/wiki/Probability)         | - |
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
