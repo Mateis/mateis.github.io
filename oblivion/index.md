@@ -11,10 +11,16 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 
 ## What I found out so far
 **Sources of knowledge**
-| Resource          | Read          |
-| ----------------- | :-----------: |
-| Black Swan | yes |
-| [Randomness on wikipedia](https://en.wikipedia.org/wiki/Randomness)| - |
-| [Probability on wikipedia](https://en.wikipedia.org/wiki/Probability)| - |
-| [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology) | - |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| Resource              | Read              |
+| -----------------     | :-----------:     |
+| Black Swan            | yes               |
+| [Randomness on wikipedia](https://en.wikipedia.org/wiki/Randomness)           | - |
+| [Probability on wikipedia](https://en.wikipedia.org/wiki/Probability)         | - |
+| [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
 
