@@ -7,6 +7,7 @@ I want to know what we do not know. How can we get a hold of it. And position be
 Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 
 ### applications
+**Experiments (take it to the real world, for usefulness and profit)**
 
 ## What I found out so far
 **Sources of knowledge**
@@ -16,6 +17,4 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 | [Randomness on wikipedia](https://en.wikipedia.org/wiki/Randomness)| - |
 | [Probability on wikipedia](https://en.wikipedia.org/wiki/Probability)| - |
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology) | - |
-
-**Experiments (take it to the real world, for usefulness and profit)**
 
