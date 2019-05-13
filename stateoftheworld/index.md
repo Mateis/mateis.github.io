@@ -13,7 +13,7 @@ A few sources that can help.
 **General (including technology)**
 1. [https://intelligence.weforum.org/](https://intelligence.weforum.org/)
 
-**New to the field and progressive technologies**
+**New to the field progressive technologies**
 2. [http://matthiaskoller.me/emergingtechnologies/](http://matthiaskoller.me/emergingtechnologies/)
 
 **The numbers on affairs**
