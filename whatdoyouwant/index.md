@@ -38,3 +38,5 @@ Profiles.
 It is trade offs. Between alternatives. Limited resources of time, attention and money. People spend on the alternative that they believe/expect gives them results.
 
 What people like, is possible dependent on what they believe / expection is of its usefulness, or potential for the gratification, of deeper level of needs.
+
+Not many people like to invest the time to read and understand. Most seek more direct and instant wins. (no normative judgement what is more effective; just describing observations)

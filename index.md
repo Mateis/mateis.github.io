@@ -107,6 +107,15 @@ var AUTOHIDE = Boolean(1);
 ## State of the art
 **[Access the story up to now](/whythis)**
 
+<!-- 
+### Evolving Series
+1. [A lightpost in Oblivion](/oblivion)
+2. [What do you want](/whatdoyouwant/)
+3. [State of the world](/stateoftheworld/)
+4. [Beautiful (world) investing](/capitalinvestments)
+5. [Frames](/structures)
+-->
+
 ## What I read now
 1. Personal MBA
 2. Principles
