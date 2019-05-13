@@ -1,5 +1,5 @@
 # Curious how the world works
-Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). I believe that if I keep carving long enough at something [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Many money mountains and curvey cognitive corners are to be overcome towards it. Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
+Durable knowledge. Knowledge that does not change so fast. I collect as much of it as possible in my stay. I build a map or model of the landscape we are in. I do so with [philosophy](/whythis) and [enterprise](/enterprise-index). Sit back and [watch my sulpture unfold](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH), or grab a chisel and [make your mark](https://forms.gle/3h5CYckTyoCFZczj6).
 
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/61c63ac2f8837041dc7e.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/74ef9830e6b42f1f3c59.css"> 
@@ -123,3 +123,4 @@ var AUTOHIDE = Boolean(1);
   padding: 0;
 }
 </style>
+<!-- I believe that if I keep carving long enough at something [beauty will unfold](https://en.wikipedia.org/wiki/Sculpture). Many money mountains and curvey cognitive corners are to be overcome towards it. -->
