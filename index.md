@@ -109,11 +109,11 @@ var AUTOHIDE = Boolean(1);
 
  
 ### Evolving Series
-* [A lightpost in Oblivion](/oblivion)
 * [What do you want](/whatdoyouwant/)
+* [Oblivion](/oblivion)
 * [State of the world](/stateoftheworld/)
-* [Beautiful (world) investing](/capitalinvestments)
-* [Frames](/structures)
+* [Structures](/structures)
+<!-- * [Beautiful (world) investing](/capitalinvestments) -->
 
 
 ## What I read now
