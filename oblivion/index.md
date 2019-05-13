@@ -20,7 +20,9 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
 
 ### My take
-**Randomness / probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give scope of possible outcomes, and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have limited knowledge of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have.
+**Randomness / probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give scope of possible outcomes, and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have limited knowledge of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have, of something a phenomanon or system.
 
 Then we have different sorts of randomness. Pure randomness, i.e. uniform white noise. Or, a little more predictable, a process or system we have a little more knowledge on, which we can describe using a normal distribution / gaussian distribution, or a power law, or some other distribution of probability, which we fit to some observation or object or system
+
+**Unknown**: The unknown is the status quo. Everything is always unknown. There is no logical proof to be certain about the future (yet). Or some math can help us find theorems. Certainties. yet, those are fixed in the math (a well functioning formal description system of the universe. to date, in some ways, better then otther language). reality may hold more surprises. after 1000 white swans, i think there is only white swans, thats certain. then I see there is a black one. Collective certain knowledge has been debunked in the past. It may happen in the future as well. 
 
