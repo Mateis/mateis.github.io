@@ -7,7 +7,7 @@ Because then you can be useful to others. Then you can contribute well. Then you
 ## What I found out so far
 People kind of define themselves what they want. They can set their own desires and hurt [1]. People want many different things. Different people have different sets of things they want. And what people wants changes over time. Hence, to pinpoint common desires, is hard. A lot of observations would be needed. That given the large amount of possiblities of desire i.e. dimensions and variables, the variation in intensity of desire, the variation of those variables among humans and the change over time of all of those desires and combinations/sets of them.
 
-**Algorithm**
+### Algorithm
 
 The steps towards understanding then are:
 1. Collect observations. Measurements of which variables are at play. And what are their values.
@@ -18,7 +18,7 @@ Then, a grid or matrix of categories of people's wants may show up. With some ac
 3. The underlying objects we are tracking, will change over time, hence the clusters will change, and hence the cluster model will be in a permanent state of moving. It will be required to continuesly update.
 
 We can take a shortcut by leveraging the attemps of others of identifing variables and making classicafications of people with sets of desires.
-**Models**
+### Models
 
 1. [6 needs of Tony Robins]
 2. other books
@@ -32,4 +32,9 @@ I also incorporate the central premise of flexibilty of the mind, and the contro
 ### Groups of people
 Profiles.
 1. Some people like to think. Others do not wonder.
-2. Some people lke to explore. Others want to get results with certainty.
+2. Some people like to explore. Others want to get results with certainty.
+3. Some people see benefit of read. Others seek other forms of instant gratification.
+
+It is trade offs. Between alternatives. Limited resources of time, attention and money. People spend on the alternative that they believe/expect gives them results.
+
+What people like, is possible dependent on what they believe / expection is of its usefulness, or potential for the gratification, of deeper level of needs.

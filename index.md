@@ -116,6 +116,7 @@ var AUTOHIDE = Boolean(1);
 
 ---
 [Sign up for updates](https://sibforms.com/serve/MUIEADxLeJuMEe1gL_xGzV_HhWPl9MotjWePx94YfJ6wJ6cCKGf4FEWKVidomsxM5tnzQT4ZlUkxpF-idPpuiCGt1feoM3lcBg3vxjCavbm6vh5sQf0TLpdJsAqxCAhvYgbMAfZ7YUBupPbLJJ4WoJPlOecI6AMsWPC3ZT0y6gsdPKQ93mbncE37HGmahgGxmNKR-aIwM9qCpevH). [Share your feedback](https://forms.gle/3h5CYckTyoCFZczj6). Start with [why](/whythis).
+<!-- [Gratitude](/contributors) -->
 
 <style>
 #sib-container {
