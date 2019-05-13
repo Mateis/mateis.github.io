@@ -28,7 +28,7 @@ Durable knowledge. Knowledge that does not change so fast. I collect as much of 
             />
           </svg>
           <span class="sib-form-message-panel__inner-text">
-                      Your subscription has been successful.
+                      Your subscription has been successful. <a href="http://mateis.github.io/whythis">The story starts here</a>
                   </span>
         </div>
       </div>

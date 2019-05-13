@@ -28,3 +28,8 @@ I also incorporate the central premise of flexibilty of the mind, and the contro
 2. Spritual
 
 [1] rules; a tony concept
+
+### Groups of people
+Profiles.
+1. Some people like to think. Others do not wonder.
+2. Some people lke to explore. Others want to get results with certainty.
