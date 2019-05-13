@@ -19,3 +19,6 @@ A few sources that can help.
 Let's start by looking at a snapshot. Then how it relates. Then compare it to a snapshot of the past. Then we have the ingredients for dynamics and how it may change in the future.
 
 Be aware of bias towards the new. Remember the longstanding traditions. In both culture and technology. They may far outweigh the new and recent in importance of influence and durability in the future.
+
+## Framework
+Frames, are glasses, and structures to hang things on.
