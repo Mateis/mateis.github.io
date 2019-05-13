@@ -11,5 +11,9 @@ A few sources that can help.
 
 **General (including technology)**
 1. [https://intelligence.weforum.org/](https://intelligence.weforum.org/)
-**Growing technologies**
+**New to the field and progressive technologies**
 2. [http://matthiaskoller.me/emergingtechnologies/](http://matthiaskoller.me/emergingtechnologies/)
+
+**The numbers on affairs**
+3. http://www.theglobaleducationproject.org/earth/ 
+4. https://ourworldindata.org/
