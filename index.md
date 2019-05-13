@@ -108,7 +108,7 @@ var AUTOHIDE = Boolean(1);
 **[Access the story up to now](/whythis)**
 
  
-### Currently carving (evolving series)
+### Currently carving
 * [What do you want](/whatdoyouwant/)
 * [State of the world](/stateoftheworld/)
 * [Structures](/structures)
