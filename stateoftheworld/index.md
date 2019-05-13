@@ -21,4 +21,4 @@ Let's start by looking at a snapshot. Then how it relates. Then compare it to a 
 Be aware of bias towards the new. Remember the longstanding traditions. In both culture and technology. They may far outweigh the new and recent in importance of influence and durability in the future.
 
 ## Framework
-Frames, are glasses, and structures to hang things on.
+Frames, are glasses, and structures to hang things on. This can be, put in one way, 'the latticework of mental models'.
