@@ -20,8 +20,13 @@ Then, a grid or matrix of categories of people's wants may show up. With some ac
 We can take a shortcut by leveraging the attemps of others of identifing variables and making classicafications of people with sets of desires.
 ### Models
 
-1. [6 needs of Tony Robins]
-2. other books
+1. [Manfred Max-Neef's Fundamental human needs](https://en.wikipedia.org/wiki/Manfred_Max-Neef%27s_Fundamental_human_needs)
+2. [Maslow's Hierarchy of needs](https://medium.com/@hwabtnoname/maslow-s-hierarchy-of-needs-vs-the-max-neef-model-of-human-scale-development-9ebebeabb215)
+3. [6 Human Needs - Tony Robbins](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+4. [5 Core Human Drives - Josh Kaufman](https://personalmba.com/core-human-drives/)
+5. [Higher level: economic value](https://personalmba.com/economic-values/)
+
+*note: classify list in layers; some are higher order system layers, some lower.*
 
 I also incorporate the central premise of flexibilty of the mind, and the control over one's own desires from
 1. Epictetus
