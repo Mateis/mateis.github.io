@@ -1,7 +1,7 @@
 Currently Carving - Below is work in progress. I put it out there so you can provide [early feedback](https://forms.gle/3h5CYckTyoCFZczj6).
 
 # What do you want?
-A lot of pleasure and pain. But why? I want to know what people want. Join me in my journey / (re)search.
+I want to know what people want. Join me in my journey / (re)search.
 
 *semantics(tags): want, need, desire, drive, motivation*
 
