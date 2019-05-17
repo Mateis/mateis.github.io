@@ -75,6 +75,7 @@ Given the strenght and flexibility of the human mind, I believe there is no cent
 
 *third layer*
 We survive by fulfulling our (individual) biological needs (we survive our specices, if we all try to survival ourselves, as a default - non cognitive overwrite - state). The biological needs we have, to keep our physical operations going, we need the following input and output are:
+
 **input**
 * Oxgyen
 * Water
