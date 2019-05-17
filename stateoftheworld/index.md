@@ -1,6 +1,8 @@
 # State of the world
 There is so much going on at this planet. How to make sense of all of it. 
 
+State of the world is lower priority because it requires to keep up to date. It requires constant updating of believes. Durable knowledge is more effective time spend of making sense of the world. Still, the state is the actual current observable (micro) structure of the system. Hence, for operations, execution and making a change in the state (however small) happens in the current state. Hence, for [praxis](/enterprise-index.md), the detailed or real or implemented or observable situational state of affairs is relevant. 
+
 ## Input resources
 A few sources that can help.
 
@@ -21,4 +23,4 @@ Let's start by looking at a snapshot. Then how it relates. Then compare it to a 
 Be aware of bias towards the new. Remember the longstanding traditions. In both culture and technology. They may far outweigh the new and recent in importance of influence and durability in the future.
 
 ## Framework
-Frames, are glasses, and structures to hang things on. This can be, put in one way, 'the latticework of mental models'.
+[Frames, are glasses, and structures to hang things on. This can be, put in one way, 'the latticework of mental models'](/structures/).
