@@ -118,8 +118,9 @@ var AUTOHIDE = Boolean(1);
 
 ## What I read now
 1. Personal MBA
-2. Principles
+2. Principles - Ray Dalio
 3. Model Thinker
+4. Commentaries on the Law of England - [Sir William Blackstone](https://en.wikipedia.org/wiki/Commentaries_on_the_Laws_of_England)
 
 <!-- I get paid if you (like me) buy one of these books. You will not pay extra. You may also borrow these books from me, after I have read them. Then it's free for you to read them! Ask me if you want to learn more about a particular book. -->
 

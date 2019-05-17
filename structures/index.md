@@ -3,7 +3,9 @@ Frames for the world. Many call them mental models. I call them structures. Fram
 
 The are fundemental descriptions of observable phenomena, processes and systems from various fields. Multidisciplinairy, interdisciplinary, various aspects and 'levels of systems' in the world: physical in physics, chemistry, biology and the human mind in psychology, economics.
 
-Durable are the core insights in those fields. The core abstract dynamic desciptions of how (that part of) our world works. When knowing these, they can give inspiration for understanding (local and temporaral) situations one is in at one momenent. It can then provide insight for deciding the course of actions at that space-time-problem point. 
+Durable are the core insights in those fields. The core abstract dynamic desciptions of how (that part of) our world works. When knowing these, they can give inspiration for understanding (local and temporaral) situations one is in at one momenent. It can then provide insight for deciding the course of actions at that space-time-problem point.
+
+*semantics(tags): big ideas, mental models*
 
 ## Collections of structures
 1. [Farnam Street](https://fs.blog/mental-models/)
