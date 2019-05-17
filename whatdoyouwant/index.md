@@ -137,7 +137,7 @@ People have different ways to satisfy. Different internal rules when something i
 
 I think I implictly follow the reasoning of [Sir William Blackstone](https://www.arsfloreat.nl/documents/Blackstone.pdf) on that nature is the base of our ethics. And human happyness is part of that nature.
 
-We might then, find better operating models, better level four wants and needs to strive for to get to our deeper goals (down/up to survival) more effectively. Enviornments changes, so maybe our standard level four models are not or best suiting/most fit (or accurate) anymore. I may find some anwsers in ethics / operating rules that have been developed, recarved and tested over the last milliena. Which were differen times then now, yet similar in a sense that we would live on small places on earth with many people. That is different then the many thousends of years where we come from, in which we lived in small communities. Hence, [I review 'secrate texts' all over the world for clues](/classictheologyworks.md).
+We might then, find better operating models, better level four wants and needs to strive for to get to our deeper goals (down/up to survival) more effectively. Enviornments changes, so maybe our standard level four models are not or best suiting/most fit (or accurate) anymore. I may find some anwsers in ethics / operating rules that have been developed, recarved and tested over the last milliena. Which were differen times then now, yet similar in a sense that we would live on small places on earth with many people. That is different then the many thousends of years where we come from, in which we lived in small communities. Hence, [I review 'secrate texts' all over the world for clues](/classictheologyworks).
 
 ### Why spirts / phisolofies / looking at your internal and external world make you at peace
 *Stoics*
@@ -161,8 +161,8 @@ People, at a time-situation point/coordinate, want stuff. Figure out what they w
 2. Some people like to explore. Others want to get results with certainty.
 3. Some people see benefit of read. Others seek other forms of instant gratification.
 
-It is trade offs. Between alternatives. Limited resources of time, attention and money. People spend on the alternative that they believe/expect gives them results.
+Not many people like to invest the time to read and understand. Most seek more direct and instant wins. (no normative judgement what is more effective; just describing observations)
+
+It is [trade offs](http://personalmba.com/tradeoffs). Between alternatives. Limited resources of time, attention and money. People spend on the alternative that they believe/expect gives them results.
 
 What people like, is possible dependent on what they *believe / expection / system of rules from a to b / structure from [antecedent to concequence](http://www.dementiamanagementstrategy.com/Pages/ABC_of_behaviour_management.aspx)* is of its usefulness, or potential for the gratification, of deeper level of needs.
-
-Not many people like to invest the time to read and understand. Most seek more direct and instant wins. (no normative judgement what is more effective; just describing observations)

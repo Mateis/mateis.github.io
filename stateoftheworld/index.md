@@ -1,3 +1,5 @@
+Currently Carving - Below is work in progress. I put it out there so you can provide [early feedback](https://forms.gle/3h5CYckTyoCFZczj6).
+
 # State of the world
 There is so much going on at this planet. How to make sense of all of it. 
 

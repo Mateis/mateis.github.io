@@ -1,6 +1,8 @@
 # A lightpost in oblivion
 I want to know what we do not know. How can we get a hold of it. And position best in it.
 
+I believe its important to be very well at behaving when i do not know. Its the status quo. And the starting point for any human on earth. And the starting point for every new territory one enters. Its also the fate of humans, given the worlds complexity compared to the (a single and unaided with technology) human mind's ability. 
+
 *Uncertainty, randomness, unknown, epistomology*
 
 ## Why

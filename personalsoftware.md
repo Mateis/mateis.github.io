@@ -1,3 +1,5 @@
+Currently Carving - Below is work in progress. I put it out there so you can provide [early feedback](https://forms.gle/3h5CYckTyoCFZczj6).
+
 ## Virtues
 I Study, compare and intergrate to simply an operation system thats virtious. They are rules of behaviour, you can adopt, that may help you attain things you want. [Things you want](/whatdoyouwant).
 
