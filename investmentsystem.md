@@ -1,5 +1,10 @@
-#Carving it
+# Carving it
 An algorithm. A checklist. A flowchart. A Standard. A system. Call it how you want it. Its putting lots of knowledge down in to a repeatable process. It eliminates the need for one (or more) human minds to remember all the important elements to check, the important questions to anwser and evaluate. We can score using the system. It is a way to make assessments, of opportunities, i.e., things you can own (by buying or making).
+
+## Why
+Decisions are often investments and the other way around. Expected returns of what price you pay, and what you get in return. Weighing alternatives, in your resource allocation (resources are time, energy, attention, money and other ownership). It is often about predicting the future returns, sometimes long away from the point of decision making. How far I can look, affects my ability to decide which direction in the branching river I take with my raft. When I cannot see any further, am at the limit of my horizing, decision making is a 50%/50% chance of winning (wiining is getting the result or objective I am after), given the river branches into two directions. Career decisions are investments. Product feature development trade offs are. Relationships are. Buying ownership (of materials, such as a bike) is. A lot of life comes down to deciding where to invest my activities / ownership to attain some goal/aspiration/desire I am after. Thats the funental wisdom it provides.
+
+Applied to specific, it provides a way to invest ownership to get ownership, to grow my ownership. Hence, that capitalistic process, means I remain and gain wealth.
 
 ## Input models
 * https://personalmba.com/10-ways-to-evaluate-a-market/
