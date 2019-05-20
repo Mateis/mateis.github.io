@@ -23,7 +23,7 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
 
 ### My take
-**Randomness / probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give [scope of possible outcomes](https://en.wikipedia.org/wiki/Sample_space), and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have limited knowledge of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have, of something a phenomanon or system.
+**Randomness / probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give [scope of possible outcomes](https://en.wikipedia.org/wiki/Probability_space), and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have limited knowledge of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have, of something a phenomanon or system.
 
 Then we have different sorts of randomness. Pure randomness, i.e. uniform white noise. Or, a little more predictable, a process or system we have a little more knowledge on, which we can describe using a normal distribution / gaussian distribution, or a power law, or some other distribution of probability, which we fit to some observation or object or system
 
