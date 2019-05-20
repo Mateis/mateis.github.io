@@ -20,6 +20,7 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 | [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)                   | yes |
 | [Randomness on wikipedia](https://en.wikipedia.org/wiki/Randomness)           | yes |
 | [Probability on wikipedia](https://en.wikipedia.org/wiki/Probability)         | - |
+| [Uncertainty on wikipedia](https://en.wikipedia.org/wiki/Uncertainty)         | - |
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
 
 ### My take
@@ -30,6 +31,7 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 Then we have different sorts of randomness. Pure randomness, i.e. uniform white noise. Or, a little more predictable, a process or system we have a little more knowledge on, which we can describe using a probability distribution. For instance, normal distribution / gaussian distribution, or a power law, or some other distribution of probability, which we fit to some observation or object or system
 
 **Unknown**: The unknown is the status quo. [Everything is always unknown](https://en.wikipedia.org/wiki/Philosophical_skepticism#Epistemology_and_skepticism). There is no logical proof to be certain about the future (yet). Or some math can help us find theorems. Certainties. yet, those are fixed in the math (a well functioning formal description system of the universe. to date, in some ways, better then otther language). reality may hold more surprises. after 1000 white swans, i think there is only white swans, thats certain. then I see there is a black one. Human collective certain knowledge has been debunked in the past. It may happen in the future as well. 
+https://en.wikipedia.org/wiki/Knightian_uncertainty
 
 **Risk**
 What I do not know. Risk is observer dependent. Risk is relative. Relative the actors exposure and understanding of the system the actor is making decisions in. The less knowledable or (in case of control) capable, the decision maker is about a future outcome, and the more exposure the decision maker has to that outcome, the more at risk the decision maker is. Hence, the parameters of knowledge can differ per actor, and hence risk. Not per outcome in a system. Hence, situations or phenomona cannot be defined low risk or high risk. It is in the eye and position of the beholder.
@@ -42,4 +44,13 @@ What I do not know. Risk is observer dependent. Risk is relative. Relative the a
 * the matthijs interpretation (stated above)
 
 https://en.wikipedia.org/wiki/Hidden-variable_theory
+
+## A coin is not random. You were lied to.
+Everyone says a coin toss is exellent for random. But its not. It is at least probebalstics, because we can calculate and show by emperical experiments that it hits head and tail (the total sample/probabilty space) 50% of the time. This is because it is in a deterministic system, it is driven by variables. If I control the angle, velocity, wind I can get a more predictable result, above 50%. I could make a precision machine that does so, in a vacum environment, and hit the coin on heads 99.999% of the time. The 0.0001% is by the mistakes in precision of the machine and the vacuum / enclosure.
+
+Lets put it to the test and built such machine. and upload it to youtube.
+
+I can use machine learning to make the machine make the exact precision. The machine can learn the exact motor power and angle needed to get the heads result every time, given a particular coin and vacuum/controlled environment. We can use image recognition to send feedback to the learning algorythm whether the head was hit or the tails (reinforcement learning). 
+
+We need expertise from precision manufactoring, robotics and machine learning to built this thing.
 
