@@ -23,19 +23,21 @@ Curiosity to the max. Whats more stimulating to a curious, then the unknown :)
 | [Epistomology on wikipedia](https://en.wikipedia.org/wiki/Epistemology)       | - |
 
 ### My take
-**Randomness / probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give [scope of possible outcomes](https://en.wikipedia.org/wiki/Probability_space), and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have limited knowledge of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have, of something a phenomanon or system.
+**Randomness**: we really have [no fcking clue whats going on](https://en.wikipedia.org/wiki/Cosmic_noise). True oblivion. https://www.random.org/
 
-Then we have different sorts of randomness. Pure randomness, i.e. uniform white noise. Or, a little more predictable, a process or system we have a little more knowledge on, which we can describe using a normal distribution / gaussian distribution, or a power law, or some other distribution of probability, which we fit to some observation or object or system
+**Probabilty is**: we kinda got grips on it. we short of can describe the predicted outcome. but we can only give [scope of possible outcomes](https://en.wikipedia.org/wiki/Probability_space), and probabilities you will find that outcome. So we kind of understand whats going on, and we can kind of tell what will happen. But we have [limited knowledge](https://en.wikipedia.org/wiki/Hidden-variable_theory) of the system drivers and expected outcomes. Various degrees of randonness, states the various degrees of knowledge we have, of something a phenomanon or system.
+
+Then we have different sorts of randomness. Pure randomness, i.e. uniform white noise. Or, a little more predictable, a process or system we have a little more knowledge on, which we can describe using a probability distribution. For instance, normal distribution / gaussian distribution, or a power law, or some other distribution of probability, which we fit to some observation or object or system
 
 **Unknown**: The unknown is the status quo. [Everything is always unknown](https://en.wikipedia.org/wiki/Philosophical_skepticism#Epistemology_and_skepticism). There is no logical proof to be certain about the future (yet). Or some math can help us find theorems. Certainties. yet, those are fixed in the math (a well functioning formal description system of the universe. to date, in some ways, better then otther language). reality may hold more surprises. after 1000 white swans, i think there is only white swans, thats certain. then I see there is a black one. Human collective certain knowledge has been debunked in the past. It may happen in the future as well. 
 
 **Risk**
-What I do not know. Risk is observer dependent. Risk is relative. To the actors exposure and understanding of the system the actor is making decisions in.
+What I do not know. Risk is observer dependent. Risk is relative. Relative the actors exposure and understanding of the system the actor is making decisions in. The less knowledable or (in case of control) capable, the decision maker is about a future outcome, and the more exposure the decision maker has to that outcome, the more at risk the decision maker is. Hence, the parameters of knowledge can differ per actor, and hence risk. Not per outcome in a system. Hence, situations or phenomona cannot be defined low risk or high risk. It is in the eye and position of the beholder.
 
 *Formal statements on risk*
 * Calculations you can do (a small list)
 * the Taleb interpretation
-* the Warren buffet interpratation
+* the Warren buffet interpratation > 
 * the wikipedia tell me more interpretation
 * the matthijs interpretation (stated above)
 
